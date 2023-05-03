@@ -19,9 +19,12 @@ after installing node
 in local machine in the EconIndia folder , terminal -> npm install , terminal -> npm run dev . 
 
 ML Models Used: Linear Regression , Decision Tree , Random Forest.
+
+
 Datasets Used : 
-https://data.worldbank.org/country/india 
-https://www.imf.org/en/Countries/IND 
+
+https://data.worldbank.org/country/india , 
+https://www.imf.org/en/Countries/IND  , 
 https://dea.gov.in/data-statistics 
 
 ALgorithm Used : Self Created PMF Algorithm
