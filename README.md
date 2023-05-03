@@ -23,8 +23,6 @@ Datasets Used :
 https://data.worldbank.org/country/india 
 https://www.imf.org/en/Countries/IND 
 https://dea.gov.in/data-statistics 
-https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20Economy 
-![image](https://user-images.githubusercontent.com/84144411/235847372-3963f728-7189-48f1-979a-f0a6508e5d07.png)
 
 ALgorithm Used : Self Created PMF Algorithm
 Website : MERN stack (MongoDb , ExpressJS , ReactJS , NodeJS)
