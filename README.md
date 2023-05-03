@@ -30,22 +30,25 @@ https://dea.gov.in/data-statistics
 ALgorithm Used : Self Created PMF Algorithm
 Website : MERN stack (MongoDb , ExpressJS , ReactJS , NodeJS)
 
-Authors : Navkar Shah , Aayush Durgule , Saksham Raina
+Authors : Navkar Shah , Aayush Durgule , Saksham Raina 
+
+
 License : GPL - 3.0 
+
 
 Screenshots : 
 
 
-<img width="1440" alt="Screenshot 2023-05-03 at 9 36 43 AM" src="https://user-images.githubusercontent.com/84144411/235846859-9f663b77-02d5-406d-aebc-2b02cfceb13f.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 36 36 AM" src="https://user-images.githubusercontent.com/84144411/235846879-d9a973c9-26cf-4e85-abdb-a611a07d7411.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 36 26 AM" src="https://user-images.githubusercontent.com/84144411/235846884-6ef073cc-8f1e-463e-9539-167c502ab4bc.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 36 10 AM" src="https://user-images.githubusercontent.com/84144411/235846901-0a156da4-a9e6-4eed-85f5-dcba0ab04205.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 36 01 AM" src="https://user-images.githubusercontent.com/84144411/235846919-2b78548e-1e59-40fc-8be1-57aece55e95d.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 35 52 AM" src="https://user-images.githubusercontent.com/84144411/235846936-763fb5ef-ccbb-40f7-bb2e-af91c17bc3be.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 35 33 AM" src="https://user-images.githubusercontent.com/84144411/235846951-a6debea5-a1fb-4aca-8770-2fb2a638f455.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 35 26 AM" src="https://user-images.githubusercontent.com/84144411/235846979-7d35af15-94df-496f-9cd6-227ee1bdf453.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 35 18 AM" src="https://user-images.githubusercontent.com/84144411/235847004-b155cfa6-902d-4090-aa85-7bcd97b315cb.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 35 10 AM" src="https://user-images.githubusercontent.com/84144411/235847026-2e021617-42ca-4122-9e3f-6d158a70d65b.png">
-<img width="1440" alt="Screenshot 2023-05-03 at 9 34 41 AM" src="https://user-images.githubusercontent.com/84144411/235847044-a7662614-d7fc-4b54-9daa-4f520272b66c.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846859-9f663b77-02d5-406d-aebc-2b02cfceb13f.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846879-d9a973c9-26cf-4e85-abdb-a611a07d7411.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846884-6ef073cc-8f1e-463e-9539-167c502ab4bc.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846901-0a156da4-a9e6-4eed-85f5-dcba0ab04205.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846919-2b78548e-1e59-40fc-8be1-57aece55e95d.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846936-763fb5ef-ccbb-40f7-bb2e-af91c17bc3be.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846951-a6debea5-a1fb-4aca-8770-2fb2a638f455.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235846979-7d35af15-94df-496f-9cd6-227ee1bdf453.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235847004-b155cfa6-902d-4090-aa85-7bcd97b315cb.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235847026-2e021617-42ca-4122-9e3f-6d158a70d65b.png">
+<img width="1440"  src="https://user-images.githubusercontent.com/84144411/235847044-a7662614-d7fc-4b54-9daa-4f520272b66c.png">
 
 Thank You !
